@@ -2,11 +2,11 @@
 
 ### 🚀 Full-Stack Developer | Medusa.js & NodeJS Specialist
 
-- 🔭 **I'm currently working on** headless e-commerce solutions with Medusa.js, React, and blockchain integrations
+- 🔭 **I'm currently working on** headless e-commerce solutions with Medusa.js, React, and NodeJS integrations
 - 🌱 **I'm currently learning** advanced Medusa.js plugin development and Web3 commerce patterns
 - 👯 **I'm looking to collaborate on** Medusa.js projects, custom commerce plugins, and Web3 marketplace development
 - 🤔 **I'm looking for help with** scaling Medusa.js deployments and optimizing headless commerce performance
-- 💬 **Ask me about** Medusa.js architecture, React/TypeScript development, blockchain integration, or e-commerce scaling
+- 💬 **Ask me about** Medusa.js architecture, React/TypeScript development, NodeJS integration, or e-commerce scaling
 - 📫 **How to reach me:** [Portfolio](https://liviktech.com) | [Email](mailto:devs@liviktech.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I've built e-commerce platforms that handle crypto payments and traditional payments simultaneously
@@ -38,12 +38,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**Blockchain & Web3:**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
 **Mobile:**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -51,6 +45,6 @@
 
 ### 🎯 Why Medusa.js Developers Should Connect
 
-I specialize in building scalable headless commerce solutions and have extensive experience with the full Medusa.js ecosystem. My background in blockchain development adds unique value to modern e-commerce projects, especially for Web3 marketplaces and crypto payment integrations.
+I specialize in building scalable headless commerce solutions and have extensive experience with the full Medusa.js ecosystem.
 
 **Available for:** Freelance projects, consulting, full-time opportunities, and open-source collaborations
