@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🚀 Full-Stack Developer | Medusa.js & Blockchain Specialist
+### 🚀 Full-Stack Developer | Medusa.js & NodeJS Specialist
 
 - 🔭 **I'm currently working on** headless e-commerce solutions with Medusa.js, React, and blockchain integrations
 - 🌱 **I'm currently learning** advanced Medusa.js plugin development and Web3 commerce patterns
